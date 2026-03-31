@@ -4,5 +4,6 @@ public class Code04_14 {
 
         System.out.println(str.indexOf("난생"));
         System.out.println(str.indexOf("처"));
+
     }
 }

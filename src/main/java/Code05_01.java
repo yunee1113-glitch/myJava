@@ -4,5 +4,6 @@ public class Code05_01 {
 
         if (num < 100);
         System.out.println("100보다 작습니다");
+
     }
 }
