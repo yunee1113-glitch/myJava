@@ -18,5 +18,6 @@ public class Code05_06 {
             System.out.println("음~ 100보다 작군요");
         }
        s.close();
+
     }
 }

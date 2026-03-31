@@ -11,6 +11,5 @@ public class Code05_04 {
         }
 
         System.out.println("프로그램 끝!");
-
     }
 }

@@ -7,5 +7,6 @@ public class Code05_03 {
             System.out.println("100보다 작군요");
         else
             System.out.println("100보다 크군요");
+
     }
 }

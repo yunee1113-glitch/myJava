@@ -9,7 +9,6 @@ public class Exam02 {
                 String res = log.substring(space, log.indexOf(" ", space + 1));
 
         System.out.println("접속한 페이지 : " + res);
-
     }
 
 }

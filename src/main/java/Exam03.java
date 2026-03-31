@@ -6,6 +6,5 @@ public class Exam03 {
 
         else
              System.out.println("홀수");
-
     }
 }
