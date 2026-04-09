@@ -20,6 +20,6 @@ public class Code05_08 {
             System.out.print("F");
 
         System.out.println("학점입니다");
-        s.close();
+        s.close();           
     }
 }
